@@ -120,7 +120,7 @@ Javascript Files:
 SOCIAL:
 
 Stay up to date and get notified of new template releases. 
-Subscribe and Siguenos en on:
+Subscribe and Síguenos en on:
 
 - GooglePlus (https://plus.google.com/+Styleshout-googleplus/)
 - Twitter (https://twitter.com/sshout06)
