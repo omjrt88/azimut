@@ -1653,21 +1653,21 @@ hr {
 	color: #f26522;
 	display: block;
 }
-#team-wrapper .member-social {
+#team-wrapper .member-social, #ourTeam .member-social{
 	font-size: 18px;
 	font-weight: normal;
 	line-height: 24px;
 	margin: 12px 0 0 0;
 	padding: 0;
 }
-#team-wrapper .member-social li {
+#team-wrapper .member-social li, #ourTeam .member-social li {
 	display: inline-block;
 	margin-right: 15px;
 }
-#team-wrapper .member-social li a {
+#team-wrapper .member-social li a, #ourTeam .member-social li a {
 	color: #252525;
 }
-#team-wrapper .member-social li a:hover {
+#team-wrapper .member-social li a:hover, #ourTeam .member-social li a:hover {
 	color: #f26522;
 }
 
